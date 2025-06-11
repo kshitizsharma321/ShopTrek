@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-An Ecommerce Website made with React.js Framework.
+An Ecommerce Website made with React.js library.
 
 ## Demo
 
